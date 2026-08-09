@@ -1,0 +1,25 @@
+{
+  "name": "Juliana的问题解决系统 2.0",
+  "short_name": "Juliana系统",
+  "description": "看清现实，找到结构与杠杆，生成高质量问题分析指令。",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eff9ff",
+  "theme_color": "#4f8ff7",
+  "icons": [
+    {
+      "src": "assets/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
